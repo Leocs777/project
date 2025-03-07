@@ -1,2 +1,2 @@
 # project
-Store all my projects
+Store all my projects for SWE Practice
