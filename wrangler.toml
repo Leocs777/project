@@ -1,5 +1,6 @@
 name = "tms"
 compatibility_date = "2026-05-29"
+workers_dev = true
 assets = { directory = "./tmslabs-website" }
 routes = [
   { pattern = "tmslabs.net", custom_domain = true },
