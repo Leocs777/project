@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Real estate development planning board</title>
+  <desc id="desc">A stylized development planning board with site plans, financing notes, construction blocks, and due diligence markers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#123f35"/>
+      <stop offset="0.58" stop-color="#1a6e65"/>
+      <stop offset="1" stop-color="#d5a84d"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0v42" fill="none" stroke="rgba(255,255,255,.13)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="560" rx="28" fill="url(#bg)"/>
+  <rect width="960" height="560" fill="url(#grid)" opacity=".75"/>
+  <path d="M70 410c90-76 168-94 262-58 87 33 157 12 239-56 91-76 181-95 318-51" fill="none" stroke="#f4df9f" stroke-width="8" stroke-linecap="round" opacity=".85"/>
+  <g fill="#fffaf1" opacity=".82">
+    <rect x="620" y="176" width="70" height="210" rx="5"/>
+    <rect x="706" y="120" width="82" height="266" rx="5"/>
+    <rect x="804" y="216" width="64" height="170" rx="5"/>
+  </g>
+  <g fill="#10231f" opacity=".22">
+    <rect x="637" y="206" width="12" height="132"/>
+    <rect x="669" y="206" width="12" height="132"/>
+    <rect x="729" y="154" width="14" height="184"/>
+    <rect x="771" y="154" width="14" height="184"/>
+    <rect x="821" y="246" width="10" height="92"/>
+    <rect x="849" y="246" width="10" height="92"/>
+  </g>
+  <g transform="translate(86 82)">
+    <rect width="390" height="284" rx="18" fill="#fffaf1" opacity=".95"/>
+    <rect x="28" y="30" width="142" height="86" rx="10" fill="#dcebef"/>
+    <path d="M45 96 90 50l28 28 27-19" fill="none" stroke="#167e78" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="200" y="34" width="154" height="12" rx="6" fill="#b65f32"/>
+    <rect x="200" y="66" width="118" height="10" rx="5" fill="#8fa29c"/>
+    <rect x="200" y="92" width="138" height="10" rx="5" fill="#8fa29c"/>
+    <rect x="28" y="150" width="326" height="22" rx="11" fill="#123f35" opacity=".9"/>
+    <rect x="28" y="192" width="118" height="44" rx="8" fill="#d5a84d"/>
+    <rect x="162" y="192" width="88" height="44" rx="8" fill="#167e78"/>
+    <rect x="266" y="192" width="88" height="44" rx="8" fill="#b65f32"/>
+  </g>
+  <g fill="#fffaf1">
+    <circle cx="522" cy="176" r="12"/>
+    <circle cx="571" cy="296" r="10"/>
+    <circle cx="888" cy="245" r="11"/>
+  </g>
+</svg>
