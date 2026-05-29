@@ -1,0 +1,16 @@
+{
+  "name": "TMS Labs",
+  "short_name": "TMS Labs",
+  "description": "Real estate investment development, cross-border trade, and mobile app innovation between the U.S. and China.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f2ea",
+  "theme_color": "#123f35",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">TMS Labs urban development and technology visual</title>
+  <desc id="desc">A stylized city development skyline with planning grids and global connection lines.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dcebef"/>
+      <stop offset=".48" stop-color="#9fb9bf"/>
+      <stop offset="1" stop-color="#123f35"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c4b43"/>
+      <stop offset="1" stop-color="#0c211e"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0v48" fill="none" stroke="#fffaf1" stroke-width="1" opacity=".16"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <path d="M0 620C240 548 402 574 604 519c246-67 436-169 996-112v493H0z" fill="#0f302b" opacity=".42"/>
+  <rect y="520" width="1600" height="380" fill="url(#ground)"/>
+  <rect y="520" width="1600" height="380" fill="url(#grid)" opacity=".62"/>
+  <g fill="#e8eee8" opacity=".86">
+    <rect x="760" y="254" width="78" height="266"/>
+    <rect x="858" y="184" width="90" height="336"/>
+    <rect x="968" y="314" width="64" height="206"/>
+    <rect x="1052" y="228" width="92" height="292"/>
+    <rect x="1164" y="342" width="70" height="178"/>
+    <rect x="1254" y="278" width="96" height="242"/>
+    <rect x="1374" y="370" width="82" height="150"/>
+  </g>
+  <g fill="#fffaf1" opacity=".36">
+    <rect x="783" y="282" width="8" height="210"/>
+    <rect x="812" y="282" width="8" height="210"/>
+    <rect x="886" y="214" width="8" height="276"/>
+    <rect x="921" y="214" width="8" height="276"/>
+    <rect x="1086" y="258" width="8" height="232"/>
+    <rect x="1122" y="258" width="8" height="232"/>
+    <rect x="1290" y="306" width="8" height="184"/>
+    <rect x="1328" y="306" width="8" height="184"/>
+  </g>
+  <path d="M118 682h480l150-82h224l136-80h374" fill="none" stroke="#d5a84d" stroke-width="5" opacity=".9"/>
+  <path d="M1190 196C1004 148 846 154 702 218 556 283 412 407 278 576" fill="none" stroke="#fffaf1" stroke-width="3" opacity=".38"/>
+  <path d="M1428 152C1214 184 1032 256 882 368 730 482 608 576 480 648" fill="none" stroke="#fffaf1" stroke-width="3" opacity=".36"/>
+  <g fill="#d5a84d">
+    <circle cx="1190" cy="196" r="8"/>
+    <circle cx="1428" cy="152" r="8"/>
+    <circle cx="882" cy="368" r="7"/>
+    <circle cx="480" cy="648" r="7"/>
+  </g>
+  <g opacity=".2">
+    <circle cx="1130" cy="230" r="210" fill="none" stroke="#fffaf1" stroke-width="2"/>
+    <circle cx="1130" cy="230" r="310" fill="none" stroke="#fffaf1" stroke-width="2"/>
+    <circle cx="1130" cy="230" r="410" fill="none" stroke="#fffaf1" stroke-width="2"/>
+  </g>
+  <rect width="1600" height="900" fill="#071a17" opacity=".14"/>
+</svg>

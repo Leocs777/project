@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">TMS Labs mark</title>
+  <desc id="desc">A compact TMS monogram with a gold development line.</desc>
+  <rect width="96" height="96" rx="20" fill="#123f35"/>
+  <text x="48" y="55" text-anchor="middle" fill="#fffaf1" font-family="Avenir Next, Gill Sans, Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="0" textLength="70" lengthAdjust="spacingAndGlyphs">TMS</text>
+  <path d="M16 68h32l9-8h23" fill="none" stroke="#d5a84d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
